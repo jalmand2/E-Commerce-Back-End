@@ -23,7 +23,7 @@ npm install
 * Run "npm start" or "node server.js" in terminal 
 
 
-![alt text](assets/images/screenshot.png)
+[Functionality Video](https://youtu.be/EOwLd8BWvHs)
 
 ## Credits
 
